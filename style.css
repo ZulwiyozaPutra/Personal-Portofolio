@@ -13,4 +13,11 @@ main {
 
 #navbar {
 	background-color: rgb(50, 103, 254);
+	border: 0;
+	border-radius: 0px;
+	color: white;
+}
+
+.navbar-header {
+	color: rgb(255, 255, 255)
 }
